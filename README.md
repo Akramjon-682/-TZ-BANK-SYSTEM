@@ -1,5 +1,5 @@
 # TZ-BANK-SYSTEM
-"""
+#
 banking_system/
 │
 ├── schema/                     # Barcha jadvallarni yaratish kodi shu yerda
