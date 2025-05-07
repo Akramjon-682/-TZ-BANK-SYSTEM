@@ -1,5 +1,5 @@
 # TZ-BANK-SYSTEM
-#
+
 banking_system/
 │
 ├── schema/                     # Barcha jadvallarni yaratish kodi shu yerda
@@ -20,4 +20,3 @@ banking_system/
 │
 ├── run.py                     # Loyihani ishga tushuruvchi fayl
 └── requirements.txt           # Kerakli kutubxonalar ro‘yxati
-"""
